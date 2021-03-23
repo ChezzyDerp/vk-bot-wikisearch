@@ -5,7 +5,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 wikipedia.set_lang('ru')
 
 
-token = 'your tokem'
+token = 'your token'
 
 vk = vk_api.VkApi(token=token)
 
